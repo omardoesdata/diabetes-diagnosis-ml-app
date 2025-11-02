@@ -1,0 +1,21 @@
+# Raw datasets
+data/
+*.csv
+*.db
+
+# ML Models
+*.h5
+*.keras
+*.pkl
+models/
+
+# Python cache & temp
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# Environment files
+venv/
+.env
